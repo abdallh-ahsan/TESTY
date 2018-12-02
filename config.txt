@@ -3,4 +3,4 @@ owner= 370866329256853505
 prefix= -
 game= #Max_Games
 stayinchannel=true 
-songinstatus=true
+songinstatus=false
